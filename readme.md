@@ -6,6 +6,8 @@
 
 使用方法如下：
 
+​	安装好对应的包，此处的`rasa`版本为`2.8.0`，然后单击[此处](https://github.com/MikeDean2367/MovieChatBot/releases/tag/model)下载对应的模型文件，放入到`model`文件夹下。
+
 1. 首先输入
 
    ```shell
