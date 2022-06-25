@@ -30,7 +30,7 @@
 
 下图为闲聊案例。
 
-![](.\img\chat.png)
+![](./img/chat.png)
 
 
 
